@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    background-color: #ac9ba1;
+}
+
+#dv1 {
+    background-color: #fff;
+    width: 720px;
+    height: 150px;
+    position: absolute;
+}
+#dv1p1 {
+    font-size: 50px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+}
+#dv1a1 {
+    position: absolute;
+    left: 84%;
+    top: 32%;
+    font-size: 30px;
+    color: #000;
+}
+
+#dv1a2 {
+    position: absolute;
+    left: 85.5%;
+    top: 50%;
+    font-size: 30px;
+    color: #000;
+    text-decoration: none;
+}
+
+#dv2 {
+    margin-top: 23px;
+    background-image: url(den.jpg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    position: absolute;
+    left: 5%;
+}
+#dv3 {
+    background-color: #fff;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 10px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+#dv3p1 {
+    font-size: 30px;
+    margin-left: 50px;
+}
+#dv4 {
+    background-image: url(pai.jpeg);
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 300px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
